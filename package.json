@@ -1,0 +1,14 @@
+{
+  "eslintConfig": {
+    "root": true,
+    "extends": "io",
+    "rules": {
+      "no-irregular-whitespace": 0,
+      "no-unused-vars": 0
+    }
+  },
+  "devDependencies": {
+    "eslint": "^5.15.0",
+    "eslint-config-io": "^0.1.1"
+  }
+}
